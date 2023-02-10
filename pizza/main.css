@@ -1,0 +1,56 @@
+body {
+
+    background-color: #FFE4C4;
+    font-size: 200%;
+}
+
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+    font-family: 'Great Vibes', cursive;
+}
+
+header {
+    background-color: #FFA07A;
+    text-align: center;
+    padding: 1em;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+section {
+    background-color: #FFEBCD;
+    padding: 1em;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 1em auto;
+}
+
+footer {
+    background-color: #FFA07A;
+    text-align: center;
+    padding: 1em;
+    color: #FF6347;
+}
